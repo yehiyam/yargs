@@ -1,0 +1,6 @@
+{
+   
+    "mocha.logVerbose": true,
+    "mocha.path": "../node_modules/mocha",
+    "mocha.files.glob": "test/*.js"
+}
